@@ -836,3 +836,14 @@ input[type='password'] {
     padding: 40px 10px 0;
   }
 }
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+.input-captcha {
+  height: 32px;
+  width: auto;
+}
